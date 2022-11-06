@@ -1,3 +1,4 @@
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
 Backups/ZOMBYTES_BV_11-03-2022.unitypackage[[:space:]] filter=lfs diff=lfs merge=lfs -text
 ZOMBYTES_BV_11-05-2022.unitypackage filter=lfs diff=lfs merge=lfs -text
+ZOMBYTES_BV_11-06-2022.unitypackage filter=lfs diff=lfs merge=lfs -text
